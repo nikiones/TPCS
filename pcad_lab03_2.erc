@@ -1,0 +1,198 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+C:\Users\NikitaPC\Desktop\Ð-CAD LABS\pcad_lab03\pcad_lab03_2.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net NET00004 has no input pins
+Warning 2 -- Net NET00004 has no output pins
+Warning 3 -- Net NET00001 has no input pins
+Warning 4 -- Net NET00001 has no output pins
+Warning 5 -- Net BA has no input pins
+Warning 6 -- Net BA has no output pins
+Warning 7 -- Net BA1 has no input pins
+Warning 8 -- Net BA1 has no output pins
+
+8 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+----------------------------------------------------------------------
+
+05-Jun-20  13:34                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       8
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+----------------------------------------------------------------------
+
+05-Jun-20  13:34                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+05-Jun-20  13:34                                            Page    3
+
