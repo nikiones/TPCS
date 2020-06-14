@@ -1,0 +1,72 @@
+PCAD Importer Log
+Project : PCAD_LAB02.LibPkg
+
+Section : C:\Users\Сергей\Desktop\никита\PCAD_LAB02.LIA
+    Section : PCB Library - PCAD_LAB02.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 108
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 110
+            Warning - 1 : Skipping Token defaultPinDes On Line 111
+            Warning - 1 : Skipping Token defaultPinDes On Line 112
+            Warning - 1 : Skipping Token defaultPinDes On Line 113
+            Warning - 1 : Skipping Token defaultPinDes On Line 114
+            Warning - 1 : Skipping Token defaultPinDes On Line 115
+            Warning - 1 : Skipping Token defaultPinDes On Line 116
+            Warning - 1 : Skipping Token defaultPinDes On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token K555ID3 On Line 145
+            Warning - 1 : Skipping Token attachedSymbol On Line 385
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PCAD_LAB02.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token viaStyleDef On Line 23
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 153
+            Warning - 1 : Skipping Token defaultPinDes On Line 160
+            Warning - 1 : Skipping Token defaultPinDes On Line 168
+            Warning - 1 : Skipping Token defaultPinDes On Line 175
+            Warning - 1 : Skipping Token defaultPinDes On Line 182
+            Warning - 1 : Skipping Token defaultPinDes On Line 189
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 213
+            Warning - 1 : Skipping Token defaultPinDes On Line 221
+            Warning - 1 : Skipping Token defaultPinDes On Line 229
+            Warning - 1 : Skipping Token defaultPinDes On Line 237
+            Warning - 1 : Skipping Token defaultPinDes On Line 245
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 261
+            Warning - 1 : Skipping Token defaultPinDes On Line 269
+            Warning - 1 : Skipping Token defaultPinDes On Line 277
+            Warning - 1 : Skipping Token defaultPinDes On Line 285
+            Warning - 1 : Skipping Token defaultPinDes On Line 293
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token defaultPinDes On Line 309
+            Warning - 1 : Skipping Token defaultPinDes On Line 317
+        EndSection
+
+        Section : Generating SCH Library - PCAD_LAB02.SchLib
+        EndSection
+    EndSection
+EndSection

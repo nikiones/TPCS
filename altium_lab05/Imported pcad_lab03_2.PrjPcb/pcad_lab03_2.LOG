@@ -1,0 +1,36 @@
+PCAD Importer Log
+Project : pcad_lab03_2.PrjPcb
+
+Section : C:\Users\Сергей\Desktop\никита\pcad_lab03\pcad_lab03_2.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 126
+        Warning - 1 : Skipping Token defaultPinDes On Line 134
+        Warning - 1 : Skipping Token defaultPinDes On Line 142
+        Warning - 1 : Skipping Token defaultPinDes On Line 165
+        Warning - 1 : Skipping Token defaultPinDes On Line 173
+        Warning - 1 : Skipping Token defaultPinDes On Line 181
+        Warning - 1 : Skipping Token defaultPinDes On Line 204
+        Warning - 1 : Skipping Token defaultPinDes On Line 212
+        Warning - 1 : Skipping Token gridDfns On Line 387
+        Warning - 1 : Skipping Token refPointSize On Line 408
+        Warning - 1 : Skipping Token infoPointSize On Line 409
+        Warning - 1 : Skipping Token junctionSize On Line 410
+        Warning - 1 : Skipping Token refPointSizePrint On Line 411
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 412
+        Warning - 1 : Skipping Token junctionSizePrint On Line 413
+        Warning - 1 : Skipping Token PrintRegion On Line 487
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 491
+        Warning - 1 : Skipping Token ecoState On Line 506
+        Warning - 1 : Skipping Token currentTextStyle On Line 507
+        Warning - 1 : Skipping Token reportSettings On Line 510
+    EndSection
+
+    Section : Generating SCH Library - pcad_lab03_2.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : pcad_lad04_2.PrjPcb
+
+Section : C:\Users\Сергей\Desktop\никита\pcad_lab04\pcad_lad04_2.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token attachedSymbol On Line 259
+        Warning - 1 : Skipping Token attachedSymbol On Line 281
+        Warning - 1 : Skipping Token attachedSymbol On Line 303
+        Warning - 1 : Skipping Token attachedSymbol On Line 323
+        Warning - 1 : Skipping Token refPointSize On Line 410
+        Warning - 1 : Skipping Token infoPointSize On Line 411
+        Warning - 1 : Skipping Token gluePointSize On Line 412
+        Warning - 1 : Skipping Token pickPointSize On Line 413
+        Warning - 1 : Skipping Token testPointSize On Line 414
+        Warning - 1 : Skipping Token refPointSizePrint On Line 415
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 416
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 417
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 418
+        Warning - 1 : Skipping Token testPointSizePrint On Line 419
+        Warning - 1 : Skipping Token solderFlowDirection On Line 420
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 421
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 422
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 423
+        Warning - 1 : Skipping Token drillSymSettings On Line 563
+        Warning - 1 : Skipping Token gerberSettings On Line 565
+        Warning - 1 : Skipping Token ncDrillSettings On Line 579
+        Warning - 1 : Skipping Token programState On Line 588
+        Warning - 1 : Skipping Token displayDrawOrder On Line 629
+        Warning - 1 : Skipping Token reportSettings On Line 852
+        Warning - 1 : Skipping Token odbSettings On Line 1549
+    EndSection
+
+    Section : Import Messages
+    EndSection
+EndSection

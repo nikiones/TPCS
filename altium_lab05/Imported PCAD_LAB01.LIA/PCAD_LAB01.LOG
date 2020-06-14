@@ -1,0 +1,136 @@
+PCAD Importer Log
+Project : PCAD_LAB01.LibPkg
+
+Section : C:\Users\Сергей\Desktop\никита\PCAD_LAB01.LIA
+    Section : PCB Library - PCAD_LAB01.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 158
+            Warning - 1 : Skipping Token defaultPinDes On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 160
+            Warning - 1 : Skipping Token defaultPinDes On Line 161
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 163
+            Warning - 1 : Skipping Token defaultPinDes On Line 164
+            Warning - 1 : Skipping Token defaultPinDes On Line 165
+            Warning - 1 : Skipping Token defaultPinDes On Line 166
+            Warning - 1 : Skipping Token defaultPinDes On Line 167
+            Warning - 1 : Skipping Token defaultPinDes On Line 168
+            Warning - 1 : Skipping Token defaultPinDes On Line 169
+            Warning - 1 : Skipping Token defaultPinDes On Line 190
+            Warning - 1 : Skipping Token defaultPinDes On Line 191
+            Warning - 1 : Skipping Token defaultPinDes On Line 192
+            Warning - 1 : Skipping Token defaultPinDes On Line 193
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 195
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 199
+            Warning - 1 : Skipping Token defaultPinDes On Line 200
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+            Warning - 1 : Skipping Token defaultPinDes On Line 203
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 206
+            Warning - 1 : Skipping Token defaultPinDes On Line 207
+            Warning - 1 : Skipping Token defaultPinDes On Line 208
+            Warning - 1 : Skipping Token defaultPinDes On Line 209
+            Warning - 1 : Skipping Token defaultPinDes On Line 210
+            Warning - 1 : Skipping Token defaultPinDes On Line 211
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 213
+            Warning - 1 : Skipping Token defaultPinDes On Line 234
+            Warning - 1 : Skipping Token defaultPinDes On Line 235
+            Warning - 1 : Skipping Token defaultPinDes On Line 236
+            Warning - 1 : Skipping Token defaultPinDes On Line 237
+            Warning - 1 : Skipping Token defaultPinDes On Line 238
+            Warning - 1 : Skipping Token defaultPinDes On Line 239
+            Warning - 1 : Skipping Token defaultPinDes On Line 240
+            Warning - 1 : Skipping Token defaultPinDes On Line 241
+            Warning - 1 : Skipping Token defaultPinDes On Line 242
+            Warning - 1 : Skipping Token defaultPinDes On Line 243
+            Warning - 1 : Skipping Token defaultPinDes On Line 244
+            Warning - 1 : Skipping Token defaultPinDes On Line 245
+            Warning - 1 : Skipping Token defaultPinDes On Line 246
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 248
+            Warning - 1 : Skipping Token defaultPinDes On Line 249
+            Warning - 1 : Skipping Token defaultPinDes On Line 250
+            Warning - 1 : Skipping Token defaultPinDes On Line 251
+            Warning - 1 : Skipping Token defaultPinDes On Line 252
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 256
+            Warning - 1 : Skipping Token defaultPinDes On Line 257
+            Warning - 1 : Skipping Token ?555??3 On Line 292
+            Warning - 1 : Skipping Token CAPACITOR On Line 507
+            Warning - 1 : Skipping Token DIODE On Line 530
+            Warning - 1 : Skipping Token SPEAKER On Line 558
+            Warning - 1 : Skipping Token attachedSymbol On Line 618
+            Warning - 1 : Skipping Token attachedSymbol On Line 631
+            Warning - 1 : Skipping Token attachedSymbol On Line 659
+            Warning - 1 : Skipping Token attachedSymbol On Line 726
+        EndSection
+
+        Section : Import Messages
+            Warning : Component ?555??3 does not have PCB footprint definition and will be skipped
+            Warning : Component CAPACITOR does not have PCB footprint definition and will be skipped
+            Warning : Component DIODE does not have PCB footprint definition and will be skipped
+            Warning : Component SPEAKER does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - PCAD_LAB01.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token viaStyleDef On Line 53
+            Warning - 1 : Skipping Token multiLayer On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token multiLayer On Line 157
+            Warning - 1 : Skipping Token layerContents On Line 171
+            Warning - 1 : Skipping Token multiLayer On Line 189
+            Warning - 1 : Skipping Token layerContents On Line 215
+            Warning - 1 : Skipping Token multiLayer On Line 233
+            Warning - 1 : Skipping Token layerContents On Line 259
+            Warning - 1 : Skipping Token multiLayer On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 281
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 308
+            Warning - 1 : Skipping Token defaultPinDes On Line 315
+            Warning - 1 : Skipping Token defaultPinDes On Line 323
+            Warning - 1 : Skipping Token defaultPinDes On Line 330
+            Warning - 1 : Skipping Token defaultPinDes On Line 338
+            Warning - 1 : Skipping Token defaultPinDes On Line 346
+            Warning - 1 : Skipping Token defaultPinDes On Line 354
+            Warning - 1 : Skipping Token defaultPinDes On Line 362
+            Warning - 1 : Skipping Token defaultPinDes On Line 370
+            Warning - 1 : Skipping Token defaultPinDes On Line 378
+            Warning - 1 : Skipping Token defaultPinDes On Line 385
+            Warning - 1 : Skipping Token defaultPinDes On Line 392
+            Warning - 1 : Skipping Token defaultPinDes On Line 400
+            Warning - 1 : Skipping Token defaultPinDes On Line 408
+            Warning - 1 : Skipping Token defaultPinDes On Line 416
+            Warning - 1 : Skipping Token defaultPinDes On Line 424
+            Warning - 1 : Skipping Token defaultPinDes On Line 432
+            Warning - 1 : Skipping Token defaultPinDes On Line 440
+            Warning - 1 : Skipping Token defaultPinDes On Line 448
+            Warning - 1 : Skipping Token defaultPinDes On Line 456
+            Warning - 1 : Skipping Token defaultPinDes On Line 464
+            Warning - 1 : Skipping Token defaultPinDes On Line 472
+            Warning - 1 : Skipping Token defaultPinDes On Line 515
+            Warning - 1 : Skipping Token defaultPinDes On Line 523
+            Warning - 1 : Skipping Token defaultPinDes On Line 538
+            Warning - 1 : Skipping Token defaultPinDes On Line 546
+            Warning - 1 : Skipping Token defaultPinDes On Line 566
+            Warning - 1 : Skipping Token defaultPinDes On Line 574
+        EndSection
+
+        Section : Generating SCH Library - PCAD_LAB01.SchLib
+        EndSection
+    EndSection
+EndSection

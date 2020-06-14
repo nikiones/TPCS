@@ -1,0 +1,42 @@
+PCAD Importer Log
+Project : pcad_lab04_1.PrjPcb
+
+Section : C:\Users\Сергей\Desktop\никита\pcad_lab04\pcad_lab04_1.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 206
+        Warning - 1 : Skipping Token defaultPinDes On Line 207
+        Warning - 1 : Skipping Token defaultPinDes On Line 229
+        Warning - 1 : Skipping Token defaultPinDes On Line 230
+        Warning - 1 : Skipping Token defaultPinDes On Line 231
+        Warning - 1 : Skipping Token attachedSymbol On Line 357
+        Warning - 1 : Skipping Token attachedSymbol On Line 380
+        Warning - 1 : Skipping Token attachedSymbol On Line 403
+        Warning - 1 : Skipping Token attachedSymbol On Line 424
+        Warning - 1 : Skipping Token attachedSymbol On Line 446
+        Warning - 1 : Skipping Token attachedSymbol On Line 468
+        Warning - 1 : Skipping Token refPointSize On Line 624
+        Warning - 1 : Skipping Token infoPointSize On Line 625
+        Warning - 1 : Skipping Token gluePointSize On Line 626
+        Warning - 1 : Skipping Token pickPointSize On Line 627
+        Warning - 1 : Skipping Token testPointSize On Line 628
+        Warning - 1 : Skipping Token refPointSizePrint On Line 629
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 630
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 631
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 632
+        Warning - 1 : Skipping Token testPointSizePrint On Line 633
+        Warning - 1 : Skipping Token solderFlowDirection On Line 634
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 635
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 636
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 637
+        Warning - 1 : Skipping Token drillSymSettings On Line 873
+        Warning - 1 : Skipping Token gerberSettings On Line 875
+        Warning - 1 : Skipping Token ncDrillSettings On Line 889
+        Warning - 1 : Skipping Token programState On Line 898
+        Warning - 1 : Skipping Token displayDrawOrder On Line 939
+        Warning - 1 : Skipping Token reportSettings On Line 1162
+        Warning - 1 : Skipping Token odbSettings On Line 1859
+    EndSection
+
+    Section : Import Messages
+    EndSection
+EndSection
